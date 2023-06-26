@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #FAFAFA;
+}
+
+.img {
+  width: 1920px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.click-1 a {
+  position: absolute;
+  width: 393px;
+  height: 285px;
+  top: 544px;
+  left: 584px;
+  cursor: pointer;
+  transform: rotate(5.64deg);
+}
+
+.click-1:hover a {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.click-2 a {
+  position: absolute;
+  width: 381px;
+  height: 540px;
+  top: 874px;
+  left: 833px;
+  cursor: pointer;
+}
+
+
+.click-2:hover a {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
